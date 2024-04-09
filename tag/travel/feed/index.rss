@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Travel &#8211; Vocal Travels</title>
+	<atom:link href="https://vocaltravels.com.ng/tag/travel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vocaltravels.com.ng</link>
+	<description>Providing Assured Information</description>
+	<lastBuildDate>Thu, 08 Jun 2023 09:28:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5</generator>
+	<item>
+		<title>7 Top Benefits of Booking Vacation with Expedia Travel Agent</title>
+		<link>https://vocaltravels.com.ng/expedia-travel-agent/</link>
+		
+		<dc:creator><![CDATA[Godfrey]]></dc:creator>
+		<pubDate>Thu, 08 Jun 2023 09:28:01 +0000</pubDate>
+				<category><![CDATA[hotels]]></category>
+		<category><![CDATA[Travel]]></category>
+		<guid isPermaLink="false">https://www.geetra.com/?p=11043</guid>
+
+					<description><![CDATA[Expedia travel agent offers comparative prices and options across multiple platforms to ensure you&#8217;re getting the best deal for your specific travel needs. Experience the top benefits of booking your vacation with Expedia as your travel agent. Enjoy a wide selection of travel options, competitive prices, and exclusive deals. What is Expedia Travel Agent Expedia [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
