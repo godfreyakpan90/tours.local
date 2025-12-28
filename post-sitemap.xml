@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://abiwin.com/</loc>
-		<lastmod>2025-12-16T15:09:38+00:00</lastmod>
+		<lastmod>2025-12-28T21:33:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://abiwin.com/hotels/dollar-to-naira-exchange-rate/</loc>
@@ -787,6 +787,55 @@
 		<lastmod>2025-12-16T15:09:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://abiwin.com/wp-content/uploads/2025/12/Stanford-University-Scholarships.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://abiwin.com/portals/how-to-access-manage-unimed-portal/</loc>
+		<lastmod>2025-12-17T13:20:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://abiwin.com/wp-content/uploads/2025/12/UNIMED-Student-Portal-Login.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://abiwin.com/portals/zuma-health-trust-portal/</loc>
+		<lastmod>2025-12-17T13:41:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://abiwin.com/wp-content/uploads/2025/12/Zuma-Health-Trust-Portal.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://abiwin.com/portals/mdcn-portal-login/</loc>
+		<lastmod>2025-12-17T13:49:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://abiwin.com/wp-content/uploads/2025/12/MDCN-Portal-Login.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://abiwin.com/how-to/how-to-check-vehicle-license-status-online/</loc>
+		<lastmod>2025-12-17T17:45:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://abiwin.com/wp-content/uploads/2025/12/drivers-license.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://abiwin.com/hotels/rent-office-space-toronto/</loc>
+		<lastmod>2025-12-22T16:32:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://abiwin.com/wp-content/uploads/2025/12/office-space-rent-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://abiwin.com/scholarships/amazon-future-engineer-scholarship/</loc>
+		<lastmod>2025-12-28T21:15:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://abiwin.com/wp-content/uploads/2025/12/amazon-future-engineer-scholarship.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://abiwin.com/scholarships/ualberta-scholarships/</loc>
+		<lastmod>2025-12-28T21:33:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://abiwin.com/wp-content/uploads/2025/12/UAlberta-Scholarships-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
